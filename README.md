@@ -1,6 +1,6 @@
 <div align="center"><img src="[https://scontent.fcgk6-2.fna.fbcdn.net/v/t39.30808-6/355903847_10222435077685523_8372622342248330982_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeGPB73f8CjwbhqRjKuXd1ubvT6YT3I3u_69PphPcje7_u90HTik73YFqGIxY5c224g&_nc_ohc=6bV7YiVk_kEAX81Pzz2&_nc_ht=scontent.fcgk6-2.fna&oh=00_AfDpzeTuWXc-uFIWiCjzyMVHElVftpFlj_zTSrUfO_xshw&oe=6499786C]" align="center" style="width: 50%" /></div>
 
-# <div align="center">Hi 👋, I'm KingGeneral</div>  
+# <div align="center">Hi 👋, I'm Anthony</div>  
   
 
 ### <div align="center">I am a Full Stack Developer specializing in Web-Development & UIX with :</div> 
